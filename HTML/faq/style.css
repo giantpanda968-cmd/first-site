@@ -1,0 +1,62 @@
+*{
+    background-color: white;
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 10px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+.heading1{
+     /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    
+}
+.p1{
+    margin-top: 7px;
+    font-size: 15px;
+}
+.box1{
+    /* border: 2px solid black; */
+    margin-top: 10vh;
+    margin-left: 20vw;
+}
+.p2{
+    margin-top: 15px;
+
+}
+.list1{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+li{
+    margin-top: 5px;
+}
+.p3{
+    margin-top: 15px;
+}
+hr{
+    margin-top: 25px;
+}
+.he3{
+  margin-top: 15px;
+}
+.para1{
+    margin-top: 15px;
+}
+.list2{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.para3{
+    margin-top: 15px;
+}
